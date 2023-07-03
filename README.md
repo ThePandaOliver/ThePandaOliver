@@ -1,5 +1,4 @@
 [![Discord](https://img.shields.io/discord/1021703635178115122?style=for-the-badge&logo=discord&label=Discord&labelColor=black&color=lightblue)](https://discord.gg/wjPt4vEfXb)
-[![GitHub User's stars](https://img.shields.io/github/stars/PandaDap2006?style=for-the-badge&logo=github&label=Github&labelColor=black&color=white)](https://github.com/PandaDap2006)
 
 ## About:
 Im a Danish Minecraft Modder. I make Minecraft Mods and Modpacks for fun but i would still like you feedback on my projects.

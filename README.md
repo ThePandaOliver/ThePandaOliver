@@ -8,5 +8,6 @@ Im a Danish Minecraft Modder. I make Minecraft Mods and Modpacks for fun but i w
 [![](https://github.com/PandaDap2006/PandaDap2006/blob/main/assets_for_readme/pandas_extra_details.png?raw=true)](https://legacy.curseforge.com/minecraft/mc-mods/pandas-extra-details)
 
 ---
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S0WO38H)
 ### Do you need a cheap Minecraft server and want to support me, click the banner below and sign up, you can also use my code to get 15% off you first month at Kinetic Hosting.
 [![](https://github.com/PandaDap2006/PandaDap2006/blob/main/assets_for_readme/kinetic_hosting_banner.png?raw=true)](https://billing.kinetichosting.net/aff.php?aff=476)

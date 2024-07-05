@@ -13,4 +13,4 @@ Im a Danish Minecraft Modder. I make Minecraft Mods and Modpacks for fun but i w
 
 You can also support me by clicking the link below and signing up, every purchased server will help support me and the development of my mods.  
 ![Partner Banner](https://github.com/PandaDap2006/PandaDap2006/blob/main/assets_for_readme/kinetic_hosting_banner_v2.png?raw=true)
-https://t.ly/B1Kui
+**[Sign up](https://t.ly/B1Kui)**

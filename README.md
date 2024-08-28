@@ -1,9 +1,9 @@
 [![Discord](https://img.shields.io/discord/1021703635178115122?style=for-the-badge&logo=discord&label=Discord&labelColor=black&color=lightblue)](https://discord.gg/wjPt4vEfXb)
 
-## About:
-Im a Danish Minecraft Modder. I make Minecraft Mods and Modpacks for fun but i would still like your feedback on my projects.
+## About me
+Im a Danish Minecraft Modder. I make Minecraft Mods for fun.
 
-## Check out the projects im currently working on:
+## Projects I'm working on.
 [![](https://github.com/PandaDap2006/PandaDap2006/blob/main/assets_for_readme/pandas_falling_trees.png?raw=true)](https://legacy.curseforge.com/minecraft/mc-mods/pandas-falling-trees)
 [![](https://github.com/PandaDap2006/PandaDap2006/blob/main/assets_for_readme/pandas_extra_details.png?raw=true)](https://legacy.curseforge.com/minecraft/mc-mods/pandas-extra-details)
 
@@ -11,6 +11,13 @@ Im a Danish Minecraft Modder. I make Minecraft Mods and Modpacks for fun but i w
 ## Support me
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S0WO38H)
 
-You can also support me by clicking the link below and signing up, every purchased server will help support me and the development of my mods.  
+## Advertisement
+Thanks to **Jetbrains** for supporting my projects with their open source program.\
+<img src="https://resources.jetbrains.com/storage/products/company/brand/logos/jetbrains.svg" width=300px>
+
+Thanks to **Kinetic Hosting** for supporting my projects
 ![Partner Banner](https://github.com/PandaDap2006/PandaDap2006/blob/main/assets_for_readme/kinetic_hosting_banner_v2.png?raw=true)
-**[Sign up](https://t.ly/B1Kui)**
+**[Click here and use code "PANDA" to get 15% of your first month](https://t.ly/B1Kui)**
+
+## License
+I Primarily use the GNU GPLv3 license for my projects

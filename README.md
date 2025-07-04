@@ -20,7 +20,8 @@ My current income comes from my Minecraft Mods and the danish state educational 
 
 # Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThePandaOliver&theme=github_dark)
+![GitHub stats](https://github-readme-stats-six-phi-34.vercel.app/api/?username=ThePandaOliver&theme=github_dark&show_icons=true)
+![GitHub Top languages](https://github-readme-stats-six-phi-34.vercel.app/api/top-langs/?username=ThePandaOliver&theme=github_dark&layout=donut)
 
 # Advertisement
 Thanks to **Jetbrains** for supporting my projects with their open source program.

@@ -30,4 +30,4 @@ Thanks to **Jetbrains** for supporting my projects with their open source progra
 
 Thanks to **Kinetic Hosting** for supporting my projects with their partnership program
 
-[![Partner Banner](https://github.com/ThePandaOliver/ThePandaOliver/blob/main/assets_for_readme/kinetic_hosting_banner_v2.png?raw=true)](https://t.ly/B1Kui)
+[![Partner Banner](https://github.com/ThePandaOliver/ThePandaOliver/blob/main/assets_for_readme/Support/kinetic_hosting_banner.png?raw=true)](https://t.ly/B1Kui)

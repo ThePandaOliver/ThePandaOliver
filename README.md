@@ -4,8 +4,6 @@ I'm a Danish 19 year old self taught programmer, and i make Minecraft Mods in my
 
 I'm currently attending school as a web developer, which takes up most of my time.
 
-My current income comes from my Minecraft Mods and the danish state educational grant (SU)
-
 # Languages and frameworks i know:
 * Java
   * Spring Boot
